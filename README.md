@@ -1,2 +1,2 @@
 # academic_python
-Repositório voltado para exercícios de lógica de programação da faculdade.
+A repository dedicated to Python exercises and assignments from my Software Engineering degree.
